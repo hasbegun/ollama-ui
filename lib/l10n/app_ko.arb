@@ -1,0 +1,22 @@
+{
+  "appTitle": "Ollama Chat",
+  "startConversation": "대화를 시작하세요!",
+  "typeMessageHint": "메시지를 입력하세요...",
+  "loading": "로딩 중...",
+  "errorConnection": "오류: 서버에 연결할 수 없습니다.",
+  "@appTitle": {
+    "description": "앱의 제목"
+  },
+  "@startConversation": {
+    "description": "메시지가 없을 때 표시되는 텍스트"
+  },
+  "@typeMessageHint": {
+    "description": "메시지를 입력하라는 힌트 텍스트"
+  },
+  "@loading": {
+    "description": "로딩 중일 때 표시되는 텍스트"
+  },
+  "@errorConnection": {
+    "description": "Ollama에 연결할 수 없을 때 표시되는 오류 메시지"
+  }
+}

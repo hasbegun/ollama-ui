@@ -1,0 +1,13 @@
+{
+  "appTitle": "Ollama Chat",
+  "startConversation": "¡Inicia una conversación!",
+  "typeMessageHint": "Escribe un mensaje...",
+  "loading": "Cargando...",
+  "errorConnection": "Error: No se pudo conectar con server.",
+  "@appTitle": {
+    "description": "Título de la aplicación"
+  },
+  "@startConversation": {
+    "description": "Texto mostrado cuando no hay mensajes aún"
+  }
+}
